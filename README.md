@@ -1,0 +1,1 @@
+[![Travis branch](https://img.shields.io/travis/rust-lang/rust/master.svg)](https://travis-ci.org/monolambda/tslint-config-monolambda.svg?branch=master)
