@@ -5,4 +5,5 @@ node_js:
   - '5'
   - '4'
 sudo: false
-  
+after_success:
+- bash scripts/yarn.sh  
