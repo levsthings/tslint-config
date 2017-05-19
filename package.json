@@ -8,6 +8,9 @@
     "type": "git",
     "url": "https://github.com/monolambda/tslint-config-monolambda"
   },
+  "greenkeeper": {
+    "ignore": []
+  },
   "main": "index.js",
   "scripts": {
     "test": "tape test/*.js"
