@@ -6,4 +6,4 @@
 
 ### Usage:
 * Install the package : `npm install tslint-config-monolambda tslint --save` 
-* Create a `tslint.json` file and add `{ "extends": "tslint-config-monolambda" }
+* Create a `tslint.json` file and add `{ "extends": "tslint-config-monolambda" }`
