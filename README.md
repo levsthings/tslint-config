@@ -1,2 +1,2 @@
 [![Travis branch](https://img.shields.io/travis/rust-lang/rust/master.svg)](https://travis-ci.org/monolambda/tslint-config-monolambda.svg?branch=master)
-[![Greenkeeper badge](https://badges.greenkeeper.io/monolambda/tslint-config-monlambda.svg)](https://greenkeeper.io/)
+[![Greenkeeper badge](https://badges.greenkeeper.io/monolambda/tslint-config-monolambda.svg)](https://greenkeeper.io/)
