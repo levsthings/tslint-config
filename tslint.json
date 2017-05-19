@@ -8,7 +8,7 @@
     "rules": {
         "ter-indent": [true, 4, "spaces"],
         "space-before-function-paren": [true, "never"],
-        "no-require-imports": true,
+        "no-require-imports": false,
         "eofline": true,
         "object-literal-key-quotes": [true, "as-needed"],
         "jsx-no-lambda": false,
