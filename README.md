@@ -4,6 +4,15 @@
 [![Greenkeeper badge](https://badges.greenkeeper.io/monolambda/tslint-config-monolambda.svg)](https://greenkeeper.io/)
 [![Dependency Status](https://gemnasium.com/badges/github.com/monolambda/tslint-config-monolambda.svg)](https://gemnasium.com/github.com/monolambda/tslint-config-monolambda)
 
-### Usage:
-* Install the package : `npm install tslint-config-monolambda tslint --save` 
-* Create a `tslint.json` file and add `{ "extends": "tslint-config-monolambda" }`
+## Installation:
+```sh
+npm install tslint-config-monolambda tslint --save
+``` 
+## Usage
+In `tslint.json`:
+
+```json
+{
+    "extends": "tslint-config-monolambda"
+}
+```
