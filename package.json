@@ -6,7 +6,7 @@
   "license": "Unlicense",
   "repository": {
     "type": "git",
-    "url": "https://github.com/levsthings/tslint-config-monolambda"
+    "url": "https://github.com/monolambda/tslint-config-monolambda"
   },
   "main": "index.js",
   "scripts": {
