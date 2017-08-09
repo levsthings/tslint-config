@@ -1,7 +1,7 @@
 {
   "name": "tslint-config-monolambda",
   "description": "TSLint config based on feross/standard",
-  "version": "1.0.9",
+  "version": "1.1.0",
   "author": "levsthings",
   "license": "Unlicense",
   "repository": {
