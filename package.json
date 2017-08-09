@@ -13,10 +13,11 @@
     "test": "tape test/*.js"
   },
   "dependencies": {
-    "tslint-config-standard": "^5.0.2",
-    "tslint-react": "^3.0.0"
+    "tslint": "^5.6.0",
+    "tslint-config-standard": "^6.0.1",
+    "tslint-react": "^3.2.0"
   },
   "devDependencies": {
-    "tape": "^4.6.3"
+    "tape": "^4.8.0"
   }
 }
