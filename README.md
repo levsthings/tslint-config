@@ -1,8 +1,12 @@
-# tslint-config-monolambda
-[![npm version](https://img.shields.io/npm/v/tslint-config-monolambda.svg?style=flat)](https://www.npmjs.com/package/tslint-config-monolambda)
+# tslint-config
+[![npm version](https://img.shields.io/npm/v/@monolambda/tslint-config.svg)](https://www.npmjs.com/package/tslint-config-monolambda)
 [![Travis branch](https://img.shields.io/travis/monolambda/tslint-config-monolambda/master.svg)](https://travis-ci.org/monolambda/tslint-config-monolambda.svg?branch=master)
-[![Dependency Status](https://gemnasium.com/badges/github.com/monolambda/tslint-config-monolambda.svg)](https://gemnasium.com/github.com/monolambda/tslint-config-monolambda)
-[![npm](https://img.shields.io/npm/dt/tslint-config-monolambda.svg)](https://www.npmjs.com/package/tslint-config-monolambda)
+[![Dependency Status](https://gemnasium.com/badges/github.com/monolambda/tslint-config.svg)](https://gemnasium.com/github.com/monolambda/tslint-config-monolambda)
+[![npm](https://img.shields.io/npm/dt/@monolambda/tslint-config.svg)](https://www.npmjs.com/package/tslint-config-monolambda)
+
+## Update
+
+The new version of the package is called [@monolambda/tslint-config](https://www.npmjs.com/package/@monolambda/tslint-config) and the old one is deprecated.
 
 ## Rules
 
@@ -19,13 +23,13 @@
 
 ## Installation:
 ```sh
-npm install tslint-config-monolambda tslint --save
+npm install tslint-config tslint --save
 ``` 
 ## Usage
 In `tslint.json`:
 
 ```json
 {
-    "extends": "tslint-config-monolambda"
+    "extends": "@monolambda/tslint-config"
 }
 ```

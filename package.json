@@ -1,19 +1,19 @@
 {
-  "name": "tslint-config-monolambda",
+  "name": "@monolambda/tslint-config",
   "description": "TSLint config based on feross/standard",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "author": "levsthings",
   "license": "Unlicense",
   "repository": {
     "type": "git",
-    "url": "https://github.com/monolambda/tslint-config-monolambda"
+    "url": "https://github.com/monolambda/tslint-config"
   },
   "main": "index.js",
   "scripts": {
     "test": "tape test/*.js"
   },
   "dependencies": {
-    "tslint": "^5.6.0",
+    "tslint": "^5.7.0",
     "tslint-config-standard": "^6.0.1",
     "tslint-react": "^3.2.0"
   },
