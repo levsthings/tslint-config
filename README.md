@@ -1,6 +1,6 @@
 # tslint-config
 [![npm version](https://img.shields.io/npm/v/@monolambda/tslint-config.svg)](https://www.npmjs.com/package/@monolambda/tslint-config)
-[![Travis branch](https://img.shields.io/travis/monolambda/tslint-config-monolambda/master.svg)](https://travis-ci.org/monolambda/tslint-config-monolambda.svg?branch=master)
+[![Travis branch](https://img.shields.io/travis/monolambda/tslint-config/master.svg)](https://travis-ci.org/monolambda/tslint-config)
 [![Dependency Status](https://gemnasium.com/badges/github.com/monolambda/tslint-config.svg)](https://gemnasium.com/github.com/monolambda/tslint-config)
 [![npm](https://img.shields.io/npm/dt/@monolambda/tslint-config.svg)](https://www.npmjs.com/package/@monolambda/tslint-config)
 
